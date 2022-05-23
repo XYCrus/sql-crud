@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+1,Corkery Group,Italian Cuisine,medium,Hell's Kitchen,18,2.7,false
+2,Mills LLC,Italian Cuisine,medium,Chinatown,23,4.0,true
+3,Veum-Batz,French Cuisine,expensive,West Village,19,2.5,false
+4,"Smitham, Lubowitz and Ondricka",Spanish Cuisine,medium,Chelsea,16,0.9,false
+5,Dickens-Ondricka,Mediterranean Cuisine,medium,Hell's Kitchen,17,2.8,false
+6,"Lueilwitz, Kessler and Jaskolski",Indian Cuisine,expensive,Lower East Side,14,2.6,false
+7,"Abernathy, Rowe and Gleason",Greek Cuisine,expensive,West Village,16,2.8,false
+8,Little-Koepp,Italian Cuisine,cheap,Battery Park City,15,0.5,false
+9,Weber LLC,Indian Cuisine,medium,Battery Park City,18,1.0,true
+10,Moen and Sons,French Cuisine,expensive,Financial District,14,3.9,true
+11,Reichert Group,Mediterranean Cuisine,expensive,Battery Park City,24,3.8,true
+12,Kuhlman Group,Japanese Cuisine,cheap,Chinatown,24,2.6,false
+13,"Ritchie, Ebert and Pollich",Greek Cuisine,medium,Hudson Yards,22,3.3,false
+14,Moen-Tremblay,Italian Cuisine,cheap,Chinatown,17,0.2,true
+15,"Okuneva, Hermann and Windler",Chinese Cuisine,cheap,Lower East Side,19,2.7,true
+16,VonRueden-Langosh,Greek Cuisine,expensive,Tribeca,15,2.9,true
+17,Gibson and Sons,French Cuisine,expensive,Lower East Side,18,3.4,true
+18,Graham LLC,French Cuisine,medium,Battery Park City,24,2.9,true
+19,"Romaguera, Gibson and Lemke",Mediterranean Cuisine,expensive,West Village,16,4.7,false
+20,"Bauch, Nicolas and Kuvalis",French Cuisine,medium,Chinatown,22,2.2,false
+21,Lemke Group,Italian Cuisine,cheap,Hell's Kitchen,19,3.8,false
+22,Von and Sons,French Cuisine,cheap,West Village,23,2.2,false
+23,Zieme-Bogan,French Cuisine,cheap,Battery Park City,18,5.0,true
+24,"Daugherty, Wilkinson and Kling",Mediterranean Cuisine,medium,Financial District,24,3.8,false
+25,Hayes-Hoppe,Greek Cuisine,medium,Hell's Kitchen,21,0.9,false
+26,"Wolf, Wisozk and Daugherty",Italian Cuisine,cheap,Tribeca,17,4.9,true
+27,"Howe, Nitzsche and Kuhic",Spanish Cuisine,cheap,NoHo,21,1.1,true
+28,Nitzsche-Franecki,Italian Cuisine,medium,Battery Park City,21,4.9,true
+29,Treutel-Hagenes,Greek Cuisine,cheap,Hudson Yards,22,3.5,false
+30,Heathcote-Hudson,French Cuisine,expensive,Financial District,16,3.7,false
+31,Braun-Hammes,Chinese Cuisine,medium,Lower East Side,21,1.5,true
+32,"White, Crooks and O'Kon",Italian Cuisine,expensive,Battery Park City,23,0.1,false
+33,"Johnson, Schowalter and Nienow",Mediterranean Cuisine,expensive,Tribeca,23,4.5,false
+34,Schoen Group,Greek Cuisine,expensive,Clinton,14,3.0,true
+35,"Morissette, Flatley and Brown",Mediterranean Cuisine,expensive,Greenwich Village,20,2.4,false
+36,"Lebsack, D'Amore and Price",French Cuisine,medium,SoHo,18,1.1,false
+37,Howell and Sons,French Cuisine,cheap,West Village,15,1.2,false
+38,Purdy Group,French Cuisine,expensive,Little Italy,18,1.1,true
+39,Koepp LLC,Italian Cuisine,expensive,Clinton,15,1.4,true
+40,"Paucek, Cormier and Sporer",Spanish Cuisine,expensive,Hudson Yards,15,4.5,true
+41,"Blanda, Bode and Rolfson",Greek Cuisine,medium,West Village,16,4.3,false
+42,Pacocha Inc,Italian Cuisine,expensive,NoHo,20,0.7,false
+43,Lockman Group,Spanish Cuisine,cheap,Clinton,14,4.0,true
+44,Ondricka Inc,Japanese Cuisine,expensive,Tribeca,14,0.0,true
+45,Upton-Harvey,Italian Cuisine,cheap,NoHo,17,2.0,true
+46,Metz and Sons,Chinese Cuisine,expensive,Clinton,22,0.9,true
+47,Windler LLC,Greek Cuisine,expensive,Chinatown,19,3.8,true
+48,"Kshlerin, Graham and Jakubowski",French Cuisine,expensive,Lower East Side,14,3.8,true
+49,"Schumm, Auer and Hahn",French Cuisine,expensive,Greenwich Village,17,0.2,false
+50,Ziemann-Nikolaus,Japanese Cuisine,cheap,Hudson Yards,21,2.9,true
+51,Hegmann Inc,Indian Cuisine,cheap,SoHo,18,0.6,false
+52,Nader-Reilly,Japanese Cuisine,cheap,Clinton,16,1.1,false
+53,Braun and Sons,Indian Cuisine,medium,Little Italy,17,3.2,true
+54,Kuphal Group,Chinese Cuisine,expensive,Clinton,17,0.6,false
+55,King and Sons,Mediterranean Cuisine,cheap,Hell's Kitchen,18,4.9,true
+56,"Pfannerstill, Bergnaum and Stanton",Spanish Cuisine,medium,Chinatown,20,2.2,false
+57,"Lockman, Schulist and Murazik",Indian Cuisine,medium,Clinton,21,4.9,true
+58,Wisoky-Ziemann,Mediterranean Cuisine,expensive,Hell's Kitchen,15,1.7,true
+59,"Parisian, Erdman and Schamberger",Chinese Cuisine,expensive,Hudson Yards,24,4.7,false
+60,McLaughlin and Sons,Mediterranean Cuisine,expensive,NoHo,24,1.0,false
+61,"Kovacek, Osinski and Zboncak",Italian Cuisine,cheap,Hudson Yards,16,2.6,true
+62,Marks-Bogisich,Chinese Cuisine,expensive,NoHo,19,0.3,false
+63,"Hickle, Botsford and Gusikowski",Mediterranean Cuisine,medium,Hudson Yards,24,1.1,false
+64,Veum and Sons,Indian Cuisine,cheap,Chinatown,18,2.1,true
+65,"Hilll, Kutch and Towne",Chinese Cuisine,expensive,Hudson Yards,18,4.3,false
+66,"Lesch, Langworth and Ondricka",French Cuisine,cheap,NoHo,24,1.9,true
+67,Lesch and Sons,Mediterranean Cuisine,expensive,Hudson Yards,18,2.6,true
+68,"Blanda, Jacobs and Block",Spanish Cuisine,medium,Tribeca,24,3.5,true
+69,Huels LLC,Mediterranean Cuisine,cheap,Hell's Kitchen,22,3.4,true
+70,Stokes LLC,Mediterranean Cuisine,expensive,Little Italy,17,2.3,false
+71,Mayer-Hudson,Japanese Cuisine,cheap,Greenwich Village,16,3.1,false
+72,Klein Group,French Cuisine,expensive,Clinton,17,4.2,false
+73,Prosacco-Huel,Japanese Cuisine,medium,Clinton,14,2.4,false
+74,"Collins, Stroman and Hodkiewicz",Italian Cuisine,expensive,West Village,16,1.0,false
+75,Hartmann-Jakubowski,Indian Cuisine,cheap,Clinton,21,3.6,true
+76,"McCullough, Kutch and West",Italian Cuisine,medium,Hell's Kitchen,14,4.3,true
+77,Pfeffer Inc,Italian Cuisine,expensive,Little Italy,20,4.9,false
+78,"Schimmel, Cartwright and Sipes",Mediterranean Cuisine,expensive,Greenwich Village,21,1.4,false
+79,Jakubowski and Sons,Italian Cuisine,expensive,Financial District,14,2.4,true
+80,Wolff-Farrell,Mediterranean Cuisine,expensive,Hell's Kitchen,15,4.2,true
+81,"Paucek, Kuhn and Ruecker",Mediterranean Cuisine,medium,Chinatown,22,4.7,false
+82,Treutel-Bins,Spanish Cuisine,cheap,SoHo,21,1.4,false
+83,"Bernier, Larkin and Steuber",Chinese Cuisine,cheap,Tribeca,14,4.5,false
+84,"Keeling, Welch and Volkman",French Cuisine,medium,Financial District,23,4.8,true
+85,"Heaney, Reynolds and Heidenreich",Greek Cuisine,cheap,Clinton,20,2.7,false
+86,Wolff-Baumbach,Mediterranean Cuisine,medium,Hell's Kitchen,18,2.4,true
+87,West LLC,Greek Cuisine,cheap,Greenwich Village,24,2.8,true
+88,Considine Inc,Italian Cuisine,medium,Lower East Side,14,2.6,true
+89,Cole-Bauch,Indian Cuisine,medium,Hudson Yards,16,1.5,false
+90,Huel-Bernier,Spanish Cuisine,medium,Battery Park City,17,2.9,false
+91,"Mueller, Kreiger and Swift",Mediterranean Cuisine,cheap,Battery Park City,24,4.5,false
+92,Botsford-Schaden,Italian Cuisine,cheap,Chelsea,21,2.1,true
+93,Koelpin-Bartoletti,Indian Cuisine,medium,Clinton,20,2.1,true
+94,"Kohler, Bashirian and Corwin",Mediterranean Cuisine,cheap,Greenwich Village,19,0.9,true
+95,Yundt-Douglas,Indian Cuisine,cheap,Chelsea,22,3.1,false
+96,Gaylord LLC,Chinese Cuisine,medium,West Village,21,4.6,false
+97,Gusikowski-Aufderhar,Chinese Cuisine,expensive,Hell's Kitchen,22,3.7,false
+98,"O'Reilly, Emmerich and Stroman",Indian Cuisine,medium,Chelsea,17,2.3,false
+99,Kuhn Group,Italian Cuisine,medium,Greenwich Village,14,1.1,false
+100,Raynor-Braun,Chinese Cuisine,expensive,Lower East Side,24,4.1,true
+101,Haley Group,Japanese Cuisine,medium,SoHo,24,4.5,true
+102,Green-Medhurst,Greek Cuisine,cheap,Tribeca,16,2.3,true
+103,"Abernathy, Erdman and Walsh",Mediterranean Cuisine,cheap,Chelsea,20,0.3,false
+104,"Luettgen, Swift and Lebsack",Indian Cuisine,medium,Greenwich Village,20,2.7,false
+105,Donnelly Inc,Mediterranean Cuisine,medium,Greenwich Village,18,3.0,true
+106,"Baumbach, Mosciski and Raynor",French Cuisine,expensive,Hudson Yards,21,0.8,false
+107,Harris Group,Indian Cuisine,cheap,Chinatown,21,2.9,true
+108,Boyer-Nikolaus,Japanese Cuisine,medium,SoHo,14,4.8,false
+109,"Hartmann, Treutel and Wilkinson",French Cuisine,expensive,Greenwich Village,18,4.7,true
+110,Bogan-Mohr,Indian Cuisine,expensive,Greenwich Village,18,2.6,true
+111,"Jacobs, Christiansen and Hackett",Spanish Cuisine,cheap,West Village,23,1.5,true
+112,Ruecker-Boehm,Japanese Cuisine,cheap,Chinatown,23,3.1,true
+113,Gerlach-Grady,Spanish Cuisine,medium,Lower East Side,14,0.8,false
+114,Torphy and Sons,Indian Cuisine,cheap,Chinatown,14,1.9,false
+115,Hessel-Thiel,Indian Cuisine,cheap,Greenwich Village,15,2.4,true
+116,Dickinson and Sons,Spanish Cuisine,medium,Hell's Kitchen,22,0.2,true
+117,Pollich Group,Indian Cuisine,medium,Hell's Kitchen,14,2.8,true
+118,"Rippin, Fadel and Cassin",Japanese Cuisine,expensive,Hudson Yards,16,1.3,false
+119,Fay and Sons,Chinese Cuisine,medium,Chinatown,16,2.7,false
+120,"Hintz, Daniel and Cruickshank",Greek Cuisine,medium,Battery Park City,14,1.0,true
+121,"Heidenreich, Schoen and Lakin",Indian Cuisine,expensive,Financial District,14,4.3,true
+122,Luettgen-MacGyver,Italian Cuisine,medium,SoHo,20,3.3,false
+123,Balistreri Group,Italian Cuisine,cheap,Greenwich Village,21,3.4,true
+124,Boyer-Green,Mediterranean Cuisine,expensive,Little Italy,20,2.8,false
+125,Hettinger-Dare,Japanese Cuisine,medium,Clinton,16,1.5,false
+126,"McKenzie, Wyman and Schmeler",French Cuisine,expensive,Financial District,20,2.5,true
+127,Schmeler-Goldner,Chinese Cuisine,expensive,Greenwich Village,19,4.8,false
+128,"Wunsch, Abbott and Grimes",French Cuisine,cheap,Chelsea,23,3.3,false
+129,"Waters, Ledner and Schiller",Mediterranean Cuisine,cheap,Financial District,21,2.8,true
+130,McCullough-Bechtelar,Greek Cuisine,expensive,Tribeca,16,4.5,true
+131,Kris Inc,French Cuisine,cheap,Financial District,18,0.2,false
+132,Torp Inc,Indian Cuisine,medium,Chinatown,18,2.0,false
+133,Murphy-Hyatt,Spanish Cuisine,medium,Chelsea,19,3.6,true
+134,Cremin-Schiller,Greek Cuisine,medium,SoHo,23,4.8,false
+135,Ledner and Sons,Japanese Cuisine,expensive,Little Italy,18,4.8,false
+136,"Streich, Hintz and Hintz",Mediterranean Cuisine,cheap,Chinatown,18,4.6,true
+137,Kohler Group,Chinese Cuisine,medium,SoHo,23,0.6,true
+138,"Mraz, Shields and Robel",French Cuisine,expensive,NoHo,22,2.4,true
+139,Morissette-Tremblay,French Cuisine,cheap,West Village,17,2.6,true
+140,"Raynor, Metz and Trantow",Italian Cuisine,expensive,Chelsea,14,2.2,false
+141,Boyer-Bins,Mediterranean Cuisine,cheap,Clinton,16,0.4,true
+142,Spinka Group,Japanese Cuisine,cheap,West Village,14,1.4,true
+143,Kerluke Inc,Greek Cuisine,expensive,Hudson Yards,21,4.7,true
+144,"Prohaska, Conroy and Donnelly",Greek Cuisine,medium,West Village,15,1.6,true
+145,Runte-O'Connell,Indian Cuisine,cheap,Tribeca,19,3.7,false
+146,Kunde-Kris,Indian Cuisine,cheap,Chinatown,15,3.1,false
+147,Cartwright Inc,Chinese Cuisine,medium,Little Italy,18,1.4,false
+148,Kunze-Lind,Italian Cuisine,expensive,Lower East Side,24,3.9,false
+149,Aufderhar-Gaylord,Mediterranean Cuisine,medium,Chinatown,22,2.3,true
+150,Borer-Schamberger,Italian Cuisine,cheap,Greenwich Village,15,3.1,false
+151,Ledner-Tromp,Indian Cuisine,expensive,Lower East Side,18,1.4,true
+152,Cronin Group,Mediterranean Cuisine,cheap,West Village,14,2.1,false
+153,Rogahn Inc,Indian Cuisine,cheap,Battery Park City,20,2.3,true
+154,Wyman LLC,Chinese Cuisine,cheap,Chelsea,17,2.6,false
+155,Conroy-Collier,French Cuisine,cheap,NoHo,15,0.1,false
+156,Buckridge-Shanahan,French Cuisine,medium,Chelsea,16,1.3,false
+157,Kub Group,Chinese Cuisine,expensive,Clinton,19,1.8,true
+158,"Abbott, Littel and Okuneva",Japanese Cuisine,expensive,Chinatown,14,1.3,false
+159,"Davis, Walker and Torp",French Cuisine,cheap,Chinatown,15,3.9,true
+160,"Jacobson, Kuvalis and Sawayn",Indian Cuisine,cheap,Battery Park City,23,0.5,true
+161,"Carroll, Dickinson and Keeling",Spanish Cuisine,expensive,Lower East Side,14,2.4,true
+162,"Champlin, Gutkowski and Nader",Italian Cuisine,medium,Little Italy,19,2.1,false
+163,Rice Inc,Indian Cuisine,cheap,Chelsea,14,2.3,false
+164,Hansen LLC,Spanish Cuisine,cheap,Chelsea,24,2.8,true
+165,"Hoeger, O'Kon and Streich",Greek Cuisine,medium,NoHo,19,2.2,false
+166,"Walker, Nikolaus and Kohler",Indian Cuisine,cheap,Lower East Side,17,2.5,true
+167,"Hickle, Mitchell and Goodwin",Indian Cuisine,cheap,NoHo,19,3.6,true
+168,Leannon-Dickinson,French Cuisine,expensive,Battery Park City,15,0.3,true
+169,Bergstrom-Bosco,Japanese Cuisine,expensive,Hell's Kitchen,16,3.7,true
+170,"McGlynn, Rosenbaum and Klein",Mediterranean Cuisine,medium,Clinton,16,1.5,false
+171,Schowalter-Bartoletti,Greek Cuisine,cheap,Chelsea,14,1.7,true
+172,"Bins, Heathcote and Corkery",Chinese Cuisine,expensive,Financial District,22,3.3,true
+173,Stracke-Bednar,Spanish Cuisine,medium,Tribeca,22,0.9,true
+174,Ullrich-Stehr,Greek Cuisine,medium,SoHo,16,0.2,false
+175,Bogisich-Kunze,Greek Cuisine,medium,Tribeca,18,2.7,true
+176,"Pouros, Medhurst and Hintz",Mediterranean Cuisine,medium,Battery Park City,18,2.7,true
+177,Von-Aufderhar,Japanese Cuisine,cheap,Lower East Side,22,2.4,false
+178,"Wiegand, Stroman and Howell",Indian Cuisine,medium,Hell's Kitchen,21,3.1,true
+179,Batz LLC,Chinese Cuisine,expensive,Chelsea,22,5.0,true
+180,Wuckert-O'Connell,Japanese Cuisine,cheap,Tribeca,14,4.3,true
+181,"Boyle, Stokes and Nader",Greek Cuisine,medium,Battery Park City,20,0.2,true
+182,Gibson-Carroll,Italian Cuisine,cheap,West Village,14,1.9,false
+183,"Reinger, Collins and Grimes",Japanese Cuisine,expensive,Tribeca,22,2.3,false
+184,Walter Inc,Indian Cuisine,cheap,Hell's Kitchen,16,3.3,false
+185,Beer-Langworth,French Cuisine,expensive,Chinatown,19,1.4,true
+186,Botsford and Sons,Japanese Cuisine,expensive,Clinton,24,2.4,false
+187,"Klein, Stroman and Howell",Spanish Cuisine,medium,Hell's Kitchen,20,1.8,false
+188,Morar LLC,Greek Cuisine,cheap,NoHo,21,0.3,false
+189,Macejkovic-Davis,Japanese Cuisine,cheap,Financial District,14,1.9,false
+190,Weissnat-Toy,Greek Cuisine,cheap,Clinton,17,2.6,true
+191,Prohaska LLC,French Cuisine,medium,Little Italy,20,3.2,false
+192,"Hane, Ruecker and Rutherford",Japanese Cuisine,expensive,Hudson Yards,18,1.8,true
+193,"Miller, Carroll and Hermiston",Japanese Cuisine,cheap,Clinton,24,1.4,true
+194,"O'Hara, Botsford and Klein",Chinese Cuisine,cheap,West Village,16,1.3,false
+195,Hermiston-Schaefer,Chinese Cuisine,medium,Greenwich Village,20,3.1,true
+196,"Spinka, Bosco and Rath",Greek Cuisine,cheap,Greenwich Village,17,4.1,false
+197,Bednar-Hammes,Spanish Cuisine,expensive,Battery Park City,24,0.6,true
+198,"Bode, Kertzmann and Wyman",Chinese Cuisine,cheap,Tribeca,18,2.1,true
+199,"Strosin, Marks and Reichel",Mediterranean Cuisine,expensive,SoHo,21,0.3,false
+200,Haag-Corkery,Chinese Cuisine,cheap,Tribeca,17,4.1,false
+201,"Erdman, Homenick and Hamill",French Cuisine,expensive,Chelsea,16,1.1,false
+202,Thiel-Luettgen,Indian Cuisine,expensive,Greenwich Village,17,3.8,true
+203,Torp-Cremin,Italian Cuisine,expensive,Chelsea,22,0.7,true
+204,"Romaguera, Friesen and Reilly",Spanish Cuisine,expensive,Clinton,16,0.8,true
+205,"Stroman, Pacocha and Schoen",Chinese Cuisine,cheap,Clinton,22,3.7,true
+206,Brekke and Sons,Chinese Cuisine,cheap,Tribeca,14,4.1,true
+207,Cormier-Steuber,Spanish Cuisine,expensive,Tribeca,15,2.5,true
+208,"Koelpin, Jacobson and Abernathy",Greek Cuisine,medium,NoHo,15,1.5,true
+209,Deckow LLC,Spanish Cuisine,expensive,Chelsea,20,0.7,true
+210,Von-Borer,Spanish Cuisine,expensive,Chelsea,23,2.5,false
+211,"Farrell, Morar and Rau",Chinese Cuisine,cheap,SoHo,14,0.9,true
+212,Kerluke-Leannon,Italian Cuisine,medium,Tribeca,20,4.6,false
+213,"O'Reilly, Daniel and Kub",Mediterranean Cuisine,expensive,Lower East Side,20,4.6,true
+214,O'Kon Group,Italian Cuisine,expensive,Little Italy,17,4.9,true
+215,"Aufderhar, Abernathy and Breitenberg",Japanese Cuisine,medium,Tribeca,17,2.5,false
+216,Weimann LLC,Chinese Cuisine,expensive,Battery Park City,16,1.5,false
+217,Wiza-Pfannerstill,Japanese Cuisine,cheap,Tribeca,15,0.2,false
+218,Ratke-Shields,Spanish Cuisine,medium,Hell's Kitchen,18,0.7,false
+219,Kuvalis and Sons,Italian Cuisine,expensive,Hudson Yards,24,0.0,true
+220,Blanda-Bruen,Italian Cuisine,medium,Little Italy,15,0.9,true
+221,Sipes-Bashirian,French Cuisine,cheap,Tribeca,21,1.5,false
+222,Simonis Group,Indian Cuisine,cheap,Chinatown,16,2.1,false
+223,Spinka and Sons,Japanese Cuisine,cheap,Chinatown,22,1.0,true
+224,Cormier-Klocko,Indian Cuisine,medium,Tribeca,20,3.8,true
+225,"Lehner, Considine and Ruecker",Italian Cuisine,medium,Tribeca,21,3.2,false
+226,"Jacobi, Bailey and Miller",Italian Cuisine,cheap,West Village,20,0.1,false
+227,Cruickshank-Lebsack,French Cuisine,expensive,SoHo,16,3.0,false
+228,"Spinka, Swift and Rosenbaum",Mediterranean Cuisine,cheap,NoHo,16,2.8,false
+229,McLaughlin LLC,Indian Cuisine,expensive,Chinatown,17,2.2,true
+230,"MacGyver, Bins and Wisoky",Indian Cuisine,cheap,Chinatown,24,1.6,false
+231,Zieme-Wisozk,French Cuisine,cheap,Chelsea,19,3.4,true
+232,Dibbert LLC,Mediterranean Cuisine,medium,SoHo,16,1.8,true
+233,"Heathcote, McClure and Schaden",Chinese Cuisine,medium,Clinton,17,4.7,true
+234,Labadie LLC,Indian Cuisine,expensive,Greenwich Village,17,3.3,true
+235,"Steuber, Powlowski and Schinner",Mediterranean Cuisine,expensive,Hell's Kitchen,24,1.8,true
+236,Kuhic Group,Italian Cuisine,medium,Hell's Kitchen,17,0.4,false
+237,Rath-Kling,Indian Cuisine,expensive,Chelsea,19,4.9,false
+238,"Feil, Lueilwitz and Baumbach",Chinese Cuisine,cheap,Financial District,19,4.7,false
+239,Satterfield-Hammes,Mediterranean Cuisine,expensive,Clinton,16,1.2,false
+240,"Schultz, Robel and Wunsch",Spanish Cuisine,medium,Chinatown,16,4.2,false
+241,Parker-Jacobson,Chinese Cuisine,cheap,Hell's Kitchen,14,5.0,false
+242,Wehner-Gerlach,Japanese Cuisine,expensive,Lower East Side,23,1.3,false
+243,O'Connell Group,Japanese Cuisine,expensive,SoHo,16,4.3,true
+244,Dietrich Group,Greek Cuisine,cheap,Tribeca,23,3.9,false
+245,Moen-Hirthe,Japanese Cuisine,cheap,Little Italy,15,0.9,true
+246,Stamm-Funk,Mediterranean Cuisine,medium,Greenwich Village,20,3.4,false
+247,Haley-Auer,French Cuisine,expensive,Tribeca,15,3.4,false
+248,Boehm-Glover,Chinese Cuisine,expensive,Financial District,16,3.1,true
+249,Hauck-Pacocha,Indian Cuisine,medium,SoHo,18,2.6,true
+250,Breitenberg Group,Italian Cuisine,cheap,SoHo,18,5.0,true
+251,Balistreri-Romaguera,French Cuisine,medium,Battery Park City,19,0.1,true
+252,Willms LLC,French Cuisine,cheap,SoHo,24,1.5,false
+253,"Stracke, King and Wolf",Spanish Cuisine,medium,Financial District,15,2.8,false
+254,"Johnson, Weissnat and Schamberger",French Cuisine,expensive,Lower East Side,18,1.2,true
+255,Kunde Inc,Mediterranean Cuisine,cheap,Clinton,15,0.2,true
+256,Kunze-Effertz,French Cuisine,expensive,Greenwich Village,19,1.3,false
+257,"Boehm, Braun and Cremin",French Cuisine,medium,Hell's Kitchen,20,0.5,true
+258,Thompson LLC,Chinese Cuisine,cheap,Financial District,20,3.8,true
+259,Ruecker-Mitchell,Chinese Cuisine,cheap,West Village,15,2.8,true
+260,Greenholt-Barrows,Chinese Cuisine,expensive,Hudson Yards,18,2.2,true
+261,Runolfsdottir Group,Japanese Cuisine,expensive,West Village,22,4.1,false
+262,Witting-Larkin,French Cuisine,cheap,Hell's Kitchen,20,0.0,true
+263,"Green, Schumm and Dibbert",Chinese Cuisine,cheap,Chelsea,18,0.1,false
+264,"Little, Witting and Reilly",Italian Cuisine,medium,Tribeca,20,3.3,true
+265,Zieme-Labadie,Chinese Cuisine,expensive,Tribeca,24,0.8,true
+266,Kuhic Inc,French Cuisine,expensive,Financial District,21,1.4,true
+267,Schulist and Sons,Spanish Cuisine,expensive,Battery Park City,21,2.1,true
+268,"Baumbach, Gibson and Boyer",Greek Cuisine,expensive,Little Italy,21,2.8,true
+269,Flatley Inc,Italian Cuisine,medium,Hell's Kitchen,17,1.9,true
+270,"Kertzmann, Lesch and Ritchie",Greek Cuisine,medium,West Village,14,2.9,true
+271,"Bins, Torp and Beer",Mediterranean Cuisine,medium,Financial District,23,3.5,true
+272,"Torphy, Kerluke and Wisozk",Greek Cuisine,expensive,Clinton,15,2.6,false
+273,Graham-Raynor,Mediterranean Cuisine,cheap,West Village,24,3.7,true
+274,Abernathy-Beahan,Indian Cuisine,expensive,Chinatown,19,2.5,true
+275,Schoen-Feeney,Mediterranean Cuisine,expensive,Hell's Kitchen,19,4.3,true
+276,Rowe LLC,Chinese Cuisine,medium,SoHo,23,0.1,true
+277,Purdy-Marvin,Japanese Cuisine,expensive,SoHo,14,0.3,false
+278,Morar-Hintz,Mediterranean Cuisine,expensive,Battery Park City,19,4.3,false
+279,"Reilly, Watsica and Sawayn",Chinese Cuisine,cheap,SoHo,22,1.6,false
+280,Okuneva-Franecki,Italian Cuisine,cheap,Hudson Yards,23,1.5,true
+281,"Weimann, McCullough and Lesch",Japanese Cuisine,expensive,Clinton,23,0.6,true
+282,Dickens-Bauch,Spanish Cuisine,cheap,Tribeca,20,4.8,true
+283,Murphy-Bruen,French Cuisine,medium,West Village,23,4.4,true
+284,Cronin Group,Spanish Cuisine,expensive,SoHo,22,1.9,false
+285,Schultz Group,Japanese Cuisine,cheap,Chelsea,23,1.0,false
+286,"Wuckert, Dibbert and Stark",Greek Cuisine,medium,NoHo,22,4.9,false
+287,"Ledner, McCullough and Bartell",Italian Cuisine,medium,Battery Park City,14,0.7,false
+288,Hessel-Fisher,Chinese Cuisine,expensive,NoHo,24,3.7,true
+289,Bartoletti-Bogan,Chinese Cuisine,medium,Lower East Side,17,1.2,true
+290,MacGyver-Schroeder,Indian Cuisine,expensive,Chelsea,19,0.8,false
+291,Macejkovic Group,Greek Cuisine,medium,Lower East Side,20,2.1,true
+292,Hermiston Inc,French Cuisine,expensive,Tribeca,14,4.6,false
+293,Cummerata Group,Spanish Cuisine,medium,Chinatown,17,4.6,false
+294,Romaguera Inc,Mediterranean Cuisine,expensive,West Village,15,1.5,true
+295,Heller Group,Indian Cuisine,medium,Hudson Yards,14,1.0,false
+296,Stoltenberg-Sanford,Indian Cuisine,cheap,Hudson Yards,20,1.1,false
+297,"Hickle, Wilkinson and West",Italian Cuisine,cheap,Little Italy,19,1.4,true
+298,"Kautzer, Kerluke and Romaguera",French Cuisine,expensive,Chinatown,17,1.4,true
+299,"Kohler, Wolf and Dickinson",Mediterranean Cuisine,cheap,West Village,23,3.3,false
+300,Keeling Inc,Chinese Cuisine,expensive,SoHo,23,3.2,false
+301,Little Group,Mediterranean Cuisine,expensive,Little Italy,20,1.1,true
+302,Carroll-O'Connell,Italian Cuisine,expensive,NoHo,15,3.9,false
+303,Cassin and Sons,Mediterranean Cuisine,cheap,NoHo,24,0.4,true
+304,Kuphal Inc,Mediterranean Cuisine,cheap,Financial District,24,1.2,true
+305,Feeney-McKenzie,Japanese Cuisine,cheap,Financial District,24,0.5,false
+306,Hartmann Group,Indian Cuisine,expensive,Hudson Yards,23,1.1,true
+307,Hirthe-Hermann,Spanish Cuisine,medium,Chinatown,24,4.7,false
+308,Emard-Kassulke,Chinese Cuisine,expensive,Tribeca,19,3.6,false
+309,Yundt Group,Mediterranean Cuisine,expensive,Clinton,17,2.0,true
+310,Turner-O'Connell,Japanese Cuisine,medium,Clinton,23,3.9,true
+311,Runolfsson-O'Keefe,Greek Cuisine,expensive,West Village,20,2.2,false
+312,Klocko Inc,Italian Cuisine,medium,Tribeca,20,2.4,false
+313,Reilly-Zulauf,Mediterranean Cuisine,cheap,Financial District,21,1.4,false
+314,"Mitchell, Macejkovic and Ratke",Greek Cuisine,cheap,Battery Park City,20,1.8,false
+315,King Group,Greek Cuisine,expensive,Little Italy,16,1.3,true
+316,Watsica LLC,Indian Cuisine,medium,Clinton,24,1.3,false
+317,Kovacek-Steuber,Chinese Cuisine,cheap,Chinatown,17,0.3,true
+318,Wolff Inc,Chinese Cuisine,expensive,Greenwich Village,21,1.4,false
+319,Lind-Mills,Japanese Cuisine,expensive,Clinton,19,0.6,true
+320,Little LLC,Japanese Cuisine,medium,Lower East Side,20,4.5,false
+321,Hane and Sons,Indian Cuisine,expensive,Chinatown,14,3.6,true
+322,"Olson, McGlynn and Emard",French Cuisine,medium,Lower East Side,17,3.5,true
+323,Rau-Dicki,Greek Cuisine,medium,Little Italy,14,4.4,true
+324,"Hackett, Stanton and Satterfield",Spanish Cuisine,expensive,Battery Park City,19,2.7,true
+325,"Langosh, Abbott and Nikolaus",Spanish Cuisine,expensive,West Village,22,2.6,true
+326,Runolfsson and Sons,Indian Cuisine,cheap,Little Italy,17,1.1,false
+327,McLaughlin Group,Italian Cuisine,expensive,Hudson Yards,16,3.1,false
+328,"Anderson, Dietrich and Jacobi",Spanish Cuisine,expensive,SoHo,19,4.4,false
+329,Gleichner Inc,Italian Cuisine,expensive,Clinton,18,2.8,false
+330,"Mayert, Kulas and Satterfield",Chinese Cuisine,expensive,West Village,17,2.5,true
+331,"Schaefer, Tremblay and Heathcote",Greek Cuisine,cheap,West Village,15,4.1,true
+332,Dooley-Abbott,French Cuisine,cheap,Battery Park City,20,3.9,true
+333,Schulist-Bernhard,French Cuisine,cheap,Hell's Kitchen,14,4.6,false
+334,"Mosciski, Herman and Walker",Mediterranean Cuisine,expensive,Greenwich Village,22,4.9,true
+335,Stroman Inc,Chinese Cuisine,expensive,West Village,23,4.6,false
+336,Hartmann Group,Indian Cuisine,cheap,Clinton,21,3.2,true
+337,"Kohler, Boyle and Armstrong",Japanese Cuisine,cheap,Greenwich Village,19,0.9,false
+338,Zieme-Padberg,French Cuisine,cheap,Battery Park City,15,4.5,false
+339,Hahn Inc,Spanish Cuisine,expensive,Tribeca,16,0.9,false
+340,Gerhold-Durgan,Mediterranean Cuisine,cheap,Little Italy,15,3.3,true
+341,Feil-Farrell,Indian Cuisine,expensive,Tribeca,16,4.6,true
+342,Crist-Bernier,Indian Cuisine,medium,Financial District,16,0.1,false
+343,"White, Kautzer and Ernser",Japanese Cuisine,medium,Battery Park City,15,2.8,false
+344,Kassulke LLC,Greek Cuisine,expensive,Clinton,16,1.5,false
+345,Halvorson LLC,Mediterranean Cuisine,cheap,Lower East Side,20,3.9,false
+346,Krajcik-Upton,Greek Cuisine,expensive,Financial District,24,0.8,false
+347,Bashirian-Robel,Indian Cuisine,cheap,Chelsea,22,4.3,true
+348,Gutkowski Group,Japanese Cuisine,expensive,Battery Park City,18,1.8,true
+349,Kunze and Sons,Spanish Cuisine,medium,Tribeca,15,3.0,true
+350,"Rolfson, Emmerich and Kshlerin",Spanish Cuisine,expensive,Lower East Side,15,0.8,true
+351,Heller and Sons,Greek Cuisine,expensive,NoHo,19,2.2,false
+352,Kutch LLC,French Cuisine,cheap,Chinatown,17,2.1,true
+353,Olson-Sipes,Italian Cuisine,expensive,SoHo,20,0.9,false
+354,"Parker, Leuschke and Jaskolski",Japanese Cuisine,medium,NoHo,19,4.4,false
+355,Cartwright-Veum,Italian Cuisine,medium,NoHo,21,0.9,false
+356,"Volkman, Willms and Ritchie",Greek Cuisine,medium,Tribeca,14,1.7,true
+357,Stamm-Stoltenberg,Indian Cuisine,expensive,SoHo,21,1.5,false
+358,Leffler-Rempel,Chinese Cuisine,medium,Chinatown,15,2.1,false
+359,"Cartwright, Champlin and Parker",Italian Cuisine,medium,SoHo,23,3.7,false
+360,Emard-Braun,Greek Cuisine,cheap,Greenwich Village,15,1.7,true
+361,"Stark, Deckow and Franecki",Spanish Cuisine,cheap,Clinton,15,3.6,false
+362,"Cremin, Gusikowski and Davis",Chinese Cuisine,medium,Battery Park City,20,4.0,true
+363,Blanda and Sons,Indian Cuisine,medium,Hudson Yards,15,3.4,false
+364,Murray Group,Spanish Cuisine,expensive,Battery Park City,16,5.0,false
+365,Turner-Krajcik,Mediterranean Cuisine,medium,Little Italy,14,1.4,false
+366,"Bins, Abshire and Torp",Italian Cuisine,expensive,Financial District,15,3.7,true
+367,Gibson and Sons,Spanish Cuisine,cheap,Hell's Kitchen,15,3.8,false
+368,"Altenwerth, Wunsch and Mayert",Indian Cuisine,medium,Chelsea,17,4.3,true
+369,O'Reilly-Auer,Japanese Cuisine,medium,West Village,14,1.2,true
+370,Deckow-Hegmann,French Cuisine,expensive,NoHo,18,4.9,false
+371,Stark-Kling,Japanese Cuisine,expensive,Chinatown,24,2.1,true
+372,"Gleason, Sauer and West",Japanese Cuisine,cheap,SoHo,22,3.5,false
+373,Wintheiser and Sons,Greek Cuisine,cheap,Little Italy,17,0.8,true
+374,"Upton, Skiles and Kuhlman",Indian Cuisine,expensive,West Village,15,4.1,true
+375,Heller-Bauch,Chinese Cuisine,expensive,Hudson Yards,22,2.1,false
+376,Rutherford and Sons,Indian Cuisine,cheap,Clinton,15,1.3,true
+377,Satterfield Inc,Chinese Cuisine,medium,Hudson Yards,24,1.1,true
+378,Greenholt Group,Greek Cuisine,cheap,SoHo,21,0.6,false
+379,Rohan-Kuvalis,Mediterranean Cuisine,cheap,Clinton,18,2.4,true
+380,Trantow-Hackett,Italian Cuisine,medium,Battery Park City,22,2.9,false
+381,"Hane, Mosciski and Hirthe",French Cuisine,medium,West Village,21,4.4,false
+382,Schinner-Shields,French Cuisine,expensive,Hell's Kitchen,18,1.5,true
+383,Bartell-Lueilwitz,Mediterranean Cuisine,expensive,Chinatown,18,2.1,true
+384,"Olson, Collier and Larkin",Spanish Cuisine,cheap,Hudson Yards,18,3.5,true
+385,Weissnat-Douglas,Italian Cuisine,expensive,NoHo,19,2.2,true
+386,"Kihn, Block and Zboncak",French Cuisine,expensive,Financial District,19,2.6,true
+387,Runolfsson-Bogisich,Japanese Cuisine,medium,Little Italy,24,0.0,true
+388,Blick-Hintz,Greek Cuisine,cheap,Hudson Yards,22,0.4,true
+389,Bogisich and Sons,Mediterranean Cuisine,cheap,Hudson Yards,19,1.3,false
+390,Nader-Leannon,Italian Cuisine,medium,Tribeca,20,3.9,false
+391,Olson LLC,Chinese Cuisine,cheap,SoHo,21,0.8,true
+392,"Dare, Bogan and Corwin",Chinese Cuisine,expensive,Little Italy,17,2.5,false
+393,Klocko-Collier,Chinese Cuisine,expensive,Greenwich Village,24,0.8,false
+394,Dickens-Price,French Cuisine,expensive,Lower East Side,20,2.1,false
+395,Keeling LLC,Indian Cuisine,expensive,Lower East Side,18,2.7,true
+396,Kautzer-Lind,Indian Cuisine,expensive,Battery Park City,22,3.2,false
+397,"Jaskolski, Schimmel and Pagac",Japanese Cuisine,medium,NoHo,24,1.4,false
+398,Braun-Baumbach,Indian Cuisine,expensive,Little Italy,23,0.7,false
+399,"Schulist, Schinner and Mohr",Spanish Cuisine,medium,Chelsea,17,1.8,true
+400,Stamm-Wuckert,Japanese Cuisine,expensive,Lower East Side,15,2.5,false
+401,"Franecki, Mitchell and Von",Italian Cuisine,cheap,Chelsea,17,1.9,true
+402,Heathcote-Johnston,Mediterranean Cuisine,expensive,West Village,17,3.3,false
+403,McClure and Sons,French Cuisine,expensive,Financial District,14,0.2,false
+404,"Terry, Heller and Kuhic",Greek Cuisine,cheap,Hudson Yards,19,4.6,false
+405,"Marvin, Lynch and Crona",Greek Cuisine,expensive,Clinton,22,3.7,false
+406,"Labadie, Hettinger and Russel",Italian Cuisine,medium,Tribeca,24,3.3,false
+407,"Reichel, Dickens and Hodkiewicz",French Cuisine,cheap,Lower East Side,23,3.1,false
+408,Lehner LLC,Japanese Cuisine,expensive,Battery Park City,18,0.0,false
+409,Lubowitz-Schaden,Chinese Cuisine,cheap,NoHo,18,1.2,true
+410,"Toy, Spencer and Hartmann",Greek Cuisine,expensive,Tribeca,17,0.5,false
+411,Welch and Sons,Mediterranean Cuisine,cheap,Little Italy,24,1.5,true
+412,Williamson and Sons,Spanish Cuisine,cheap,West Village,16,1.3,false
+413,Walker and Sons,French Cuisine,expensive,SoHo,24,1.8,false
+414,"Fahey, Gerlach and Hahn",Mediterranean Cuisine,cheap,Little Italy,17,4.7,false
+415,Windler Inc,Chinese Cuisine,medium,Chelsea,18,4.3,true
+416,Vandervort-Ledner,Japanese Cuisine,medium,Hell's Kitchen,17,2.8,true
+417,"Tromp, Heidenreich and Hermiston",Spanish Cuisine,cheap,Chinatown,16,2.9,false
+418,Gusikowski-Heathcote,Indian Cuisine,cheap,Financial District,23,3.2,true
+419,"Kuphal, Mante and Mosciski",Japanese Cuisine,expensive,Lower East Side,18,3.0,true
+420,DuBuque-Greenholt,Italian Cuisine,medium,Lower East Side,23,2.3,true
+421,Turner LLC,Italian Cuisine,expensive,Battery Park City,24,1.6,true
+422,Bode Group,Japanese Cuisine,medium,West Village,17,1.1,false
+423,Bernier Inc,Japanese Cuisine,cheap,Clinton,16,3.5,false
+424,"Gleichner, Marquardt and Baumbach",Chinese Cuisine,medium,Hudson Yards,23,1.8,true
+425,Lind-Kunze,Mediterranean Cuisine,cheap,Hell's Kitchen,15,1.7,true
+426,Wintheiser-Spencer,Greek Cuisine,medium,Clinton,18,3.5,false
+427,"Dach, Von and Jerde",Mediterranean Cuisine,expensive,Financial District,17,1.6,true
+428,Langworth-Pagac,Greek Cuisine,expensive,Chelsea,23,2.1,true
+429,Kuphal-Fisher,Italian Cuisine,cheap,Battery Park City,23,0.9,false
+430,Prosacco-Marvin,Italian Cuisine,cheap,Lower East Side,24,2.0,true
+431,"Becker, Gulgowski and Howe",Greek Cuisine,cheap,West Village,22,3.9,true
+432,Smith Inc,French Cuisine,medium,NoHo,20,3.1,true
+433,"Wilkinson, Rippin and Ondricka",Greek Cuisine,expensive,Tribeca,17,4.9,true
+434,Stokes LLC,Chinese Cuisine,medium,Chinatown,22,4.4,true
+435,"Jacobs, Medhurst and Ratke",French Cuisine,medium,Lower East Side,23,2.1,true
+436,"Lowe, Koepp and Douglas",Chinese Cuisine,cheap,Chinatown,23,3.8,false
+437,Larson and Sons,Indian Cuisine,medium,Clinton,22,4.4,true
+438,Hammes-Mosciski,Italian Cuisine,medium,Hudson Yards,16,1.5,true
+439,Douglas and Sons,Greek Cuisine,expensive,West Village,18,1.8,false
+440,"Effertz, Schaefer and Zemlak",Chinese Cuisine,expensive,Little Italy,19,4.9,false
+441,Hessel-Murazik,Spanish Cuisine,cheap,NoHo,22,3.4,true
+442,Abernathy Group,Chinese Cuisine,medium,Greenwich Village,22,3.7,true
+443,Brakus Group,Indian Cuisine,expensive,Greenwich Village,20,2.1,true
+444,Anderson LLC,Japanese Cuisine,medium,NoHo,19,2.1,false
+445,"Satterfield, Wiegand and McClure",Mediterranean Cuisine,expensive,Tribeca,19,3.4,false
+446,Carter-Lehner,Greek Cuisine,medium,Chelsea,21,4.5,true
+447,Altenwerth-Ritchie,Italian Cuisine,cheap,NoHo,24,0.9,true
+448,Pacocha Inc,French Cuisine,expensive,NoHo,16,0.7,true
+449,"Gusikowski, Buckridge and Morissette",French Cuisine,cheap,Greenwich Village,18,0.9,true
+450,Bernhard and Sons,Italian Cuisine,medium,Chelsea,17,1.9,true
+451,Volkman-Gibson,French Cuisine,expensive,Clinton,22,0.5,true
+452,"Mayer, Runte and Hills",French Cuisine,expensive,Financial District,19,2.7,false
+453,"Batz, Ullrich and Fritsch",Chinese Cuisine,expensive,Financial District,21,1.6,false
+454,"Dickinson, Osinski and Lehner",Mediterranean Cuisine,medium,Lower East Side,18,4.4,true
+455,Koch LLC,Greek Cuisine,medium,Financial District,18,3.8,false
+456,Gerlach Group,French Cuisine,medium,West Village,16,3.6,false
+457,"Weber, Sporer and Zemlak",Chinese Cuisine,cheap,Tribeca,21,4.9,false
+458,"Hoeger, Wolf and Schaefer",French Cuisine,medium,Hudson Yards,24,0.9,false
+459,Hills and Sons,Greek Cuisine,cheap,Little Italy,21,3.2,false
+460,Reichert Group,Spanish Cuisine,expensive,SoHo,24,2.4,true
+461,"Kuhlman, Jones and Romaguera",Spanish Cuisine,cheap,Tribeca,22,0.5,false
+462,Hamill-Larson,Italian Cuisine,cheap,Hell's Kitchen,16,0.3,false
+463,"Parisian, Jenkins and O'Keefe",French Cuisine,expensive,Greenwich Village,15,1.0,true
+464,Metz Group,Italian Cuisine,medium,Lower East Side,22,0.1,false
+465,"Friesen, Powlowski and Rempel",Chinese Cuisine,cheap,Battery Park City,24,3.8,false
+466,"Renner, Barton and Corwin",Mediterranean Cuisine,expensive,Chelsea,23,2.0,false
+467,Barrows-Nitzsche,French Cuisine,cheap,Chelsea,20,0.7,false
+468,Strosin Group,Greek Cuisine,expensive,Lower East Side,14,3.8,false
+469,Zulauf LLC,Chinese Cuisine,medium,Lower East Side,20,0.3,true
+470,Heaney-Gerlach,Chinese Cuisine,medium,Battery Park City,17,3.9,true
+471,"Kihn, Beahan and Hane",Indian Cuisine,cheap,Hell's Kitchen,20,2.4,false
+472,Harris Inc,Indian Cuisine,cheap,NoHo,23,3.8,true
+473,Strosin LLC,Greek Cuisine,expensive,Little Italy,19,2.9,false
+474,Lang and Sons,Spanish Cuisine,cheap,Chinatown,14,3.6,true
+475,"Walter, Leuschke and Crooks",French Cuisine,cheap,Battery Park City,17,3.5,false
+476,Howe-Legros,Japanese Cuisine,medium,Greenwich Village,24,4.7,false
+477,Botsford LLC,Chinese Cuisine,cheap,West Village,19,1.8,false
+478,"Jones, Zieme and Corkery",French Cuisine,medium,Lower East Side,15,3.7,false
+479,"Jenkins, Okuneva and Lynch",Japanese Cuisine,cheap,Little Italy,24,3.0,false
+480,Lind-Conn,Greek Cuisine,cheap,NoHo,14,0.8,true
+481,Koch and Sons,Japanese Cuisine,expensive,Tribeca,14,0.9,true
+482,"Altenwerth, Rowe and Douglas",Indian Cuisine,cheap,Financial District,19,1.7,true
+483,"Ondricka, Carter and Grimes",French Cuisine,cheap,Hell's Kitchen,18,3.0,true
+484,Tromp and Sons,Greek Cuisine,expensive,West Village,16,3.1,false
+485,"McGlynn, Gaylord and Metz",Spanish Cuisine,expensive,NoHo,19,0.3,true
+486,Bahringer-Harris,French Cuisine,expensive,NoHo,21,0.7,false
+487,Stamm and Sons,French Cuisine,cheap,Financial District,21,2.1,true
+488,Kshlerin LLC,Spanish Cuisine,expensive,West Village,21,2.6,false
+489,"Champlin, Trantow and Borer",Greek Cuisine,medium,Tribeca,24,0.8,true
+490,Bogisich-Bartoletti,Indian Cuisine,medium,Little Italy,20,1.1,false
+491,Bashirian-VonRueden,Italian Cuisine,medium,Tribeca,14,3.1,false
+492,Schimmel Inc,Chinese Cuisine,medium,Tribeca,16,0.1,true
+493,Lemke Inc,Chinese Cuisine,cheap,Little Italy,23,0.3,true
+494,"Friesen, Gleichner and Satterfield",Indian Cuisine,expensive,SoHo,18,1.7,true
+495,Terry Group,Indian Cuisine,cheap,Little Italy,17,3.1,false
+496,"Reinger, Runte and Beahan",Greek Cuisine,expensive,Hudson Yards,14,4.3,false
+497,Moen Inc,Greek Cuisine,medium,SoHo,18,1.8,false
+498,Shanahan Group,Mediterranean Cuisine,medium,West Village,14,4.2,true
+499,"Smith, Kunde and Lehner",Japanese Cuisine,medium,Chelsea,23,2.3,true
+500,Wiza-Kiehn,Mediterranean Cuisine,medium,Clinton,22,1.3,true
+501,Kub and Sons,Chinese Cuisine,cheap,Lower East Side,23,2.6,true
+502,Kilback and Sons,Chinese Cuisine,medium,NoHo,19,0.9,true
+503,Cummings-Wolff,Spanish Cuisine,expensive,Chinatown,14,0.5,false
+504,Doyle and Sons,Mediterranean Cuisine,expensive,Battery Park City,23,1.1,true
+505,Bogan-Upton,Chinese Cuisine,medium,Greenwich Village,22,1.5,true
+506,Armstrong-Schultz,Greek Cuisine,medium,Lower East Side,15,0.5,true
+507,Smith and Sons,Indian Cuisine,expensive,NoHo,19,1.8,true
+508,Bednar Inc,Spanish Cuisine,cheap,Battery Park City,24,3.5,true
+509,"Vandervort, Flatley and Ratke",Japanese Cuisine,expensive,Battery Park City,20,0.9,false
+510,Wintheiser LLC,Mediterranean Cuisine,cheap,Chinatown,20,4.9,true
+511,"Moen, Goyette and Padberg",Japanese Cuisine,medium,Tribeca,21,1.5,true
+512,Murazik-Lindgren,Spanish Cuisine,expensive,Clinton,16,2.8,true
+513,Auer-Pacocha,Spanish Cuisine,expensive,Hell's Kitchen,22,5.0,true
+514,"West, Altenwerth and Harvey",French Cuisine,expensive,Hell's Kitchen,23,1.4,false
+515,Zemlak Group,Japanese Cuisine,medium,Hell's Kitchen,14,1.4,false
+516,Parisian-Weissnat,Japanese Cuisine,expensive,Hell's Kitchen,14,1.7,true
+517,Hettinger-Paucek,Indian Cuisine,expensive,Chinatown,18,2.0,false
+518,Treutel Group,Japanese Cuisine,cheap,Hell's Kitchen,16,0.5,true
+519,"Bahringer, Ankunding and Sipes",Italian Cuisine,expensive,West Village,23,0.4,false
+520,Hauck Inc,Spanish Cuisine,medium,SoHo,22,4.1,false
+521,Williamson Group,French Cuisine,medium,Chinatown,23,3.2,false
+522,Muller LLC,Japanese Cuisine,medium,Chelsea,20,2.2,false
+523,Schultz-Hagenes,Chinese Cuisine,medium,Hell's Kitchen,24,3.3,false
+524,"Jerde, Durgan and Turner",Italian Cuisine,medium,Hell's Kitchen,22,3.0,true
+525,Schumm LLC,French Cuisine,medium,Chinatown,21,1.9,true
+526,Lind LLC,Greek Cuisine,medium,Clinton,23,1.1,true
+527,"O'Hara, Weissnat and Macejkovic",Chinese Cuisine,expensive,Hell's Kitchen,15,4.1,true
+528,Goodwin Group,Spanish Cuisine,cheap,Tribeca,15,3.2,true
+529,Dooley Group,Mediterranean Cuisine,cheap,SoHo,19,3.6,false
+530,Grant LLC,Spanish Cuisine,medium,Chelsea,23,4.3,true
+531,Kassulke and Sons,French Cuisine,expensive,Chelsea,17,2.8,false
+532,Watsica-Marks,Chinese Cuisine,cheap,Financial District,22,2.3,true
+533,"Haley, Lynch and Barton",Indian Cuisine,medium,NoHo,19,0.3,true
+534,"Kuhic, Bernhard and Labadie",Italian Cuisine,medium,Greenwich Village,16,2.9,true
+535,"Botsford, Sawayn and Frami",Chinese Cuisine,expensive,Lower East Side,16,3.6,true
+536,"Stoltenberg, Funk and Maggio",Japanese Cuisine,cheap,Chelsea,14,3.9,false
+537,"Stoltenberg, Abernathy and Rodriguez",Indian Cuisine,cheap,Greenwich Village,16,4.1,true
+538,Dickens-Herman,French Cuisine,cheap,West Village,23,2.1,true
+539,Ruecker-Leffler,Greek Cuisine,cheap,Hell's Kitchen,19,2.4,true
+540,Beer-Kub,Italian Cuisine,medium,NoHo,24,3.9,false
+541,Stamm Group,Spanish Cuisine,cheap,Battery Park City,23,3.9,true
+542,Berge Group,Chinese Cuisine,expensive,Lower East Side,15,1.2,false
+543,"Maggio, Kihn and Lehner",Mediterranean Cuisine,cheap,Hell's Kitchen,21,0.7,true
+544,"Cormier, Grady and Murphy",French Cuisine,medium,Financial District,18,4.3,false
+545,Gerlach-Hayes,Greek Cuisine,expensive,Financial District,17,1.0,false
+546,Spencer-Hickle,Greek Cuisine,cheap,Little Italy,22,0.5,false
+547,Boyer and Sons,French Cuisine,cheap,West Village,19,0.8,true
+548,Langosh and Sons,Indian Cuisine,expensive,Hell's Kitchen,20,0.5,false
+549,"Kassulke, Koss and Kreiger",Japanese Cuisine,expensive,Chinatown,18,3.7,false
+550,"Mueller, Schumm and Nienow",Spanish Cuisine,medium,Tribeca,23,2.9,false
+551,"Smitham, Ziemann and Wilderman",Mediterranean Cuisine,cheap,NoHo,22,0.3,true
+552,Kunde-Gerlach,Mediterranean Cuisine,cheap,Chinatown,14,3.8,false
+553,Schinner LLC,Spanish Cuisine,cheap,NoHo,22,4.6,true
+554,Crist-Zieme,Chinese Cuisine,medium,Lower East Side,21,0.2,false
+555,"MacGyver, Huels and Donnelly",Chinese Cuisine,cheap,Lower East Side,14,3.8,false
+556,Cartwright Inc,Greek Cuisine,medium,NoHo,16,2.0,false
+557,Haag Inc,Spanish Cuisine,expensive,SoHo,22,4.5,false
+558,"Dare, Gorczany and Durgan",Indian Cuisine,medium,Little Italy,22,4.4,false
+559,Kulas-Gulgowski,Spanish Cuisine,expensive,Lower East Side,22,2.4,false
+560,Schimmel-Harris,Indian Cuisine,cheap,Little Italy,22,4.3,true
+561,"Hamill, Olson and Moore",Chinese Cuisine,cheap,SoHo,20,1.5,true
+562,Moen-Morar,Greek Cuisine,medium,Lower East Side,24,1.5,false
+563,"Murazik, Bartoletti and Ward",Mediterranean Cuisine,medium,Clinton,17,2.7,false
+564,Casper Group,Japanese Cuisine,medium,Clinton,21,5.0,false
+565,Goyette LLC,Japanese Cuisine,cheap,Chinatown,17,0.9,false
+566,Cremin and Sons,Italian Cuisine,expensive,Clinton,18,0.0,true
+567,Kuvalis-Dach,Japanese Cuisine,cheap,SoHo,17,0.5,false
+568,Rutherford-Bogan,Japanese Cuisine,medium,Chinatown,15,2.1,false
+569,Kemmer-Lang,Chinese Cuisine,cheap,Hell's Kitchen,14,0.0,true
+570,Feil-Thiel,Indian Cuisine,cheap,Tribeca,21,0.3,false
+571,McGlynn and Sons,French Cuisine,expensive,Little Italy,24,3.5,false
+572,Hahn-Rippin,Mediterranean Cuisine,expensive,NoHo,22,3.9,false
+573,Kertzmann-Windler,Chinese Cuisine,expensive,Tribeca,17,3.9,false
+574,Stokes Inc,Italian Cuisine,expensive,Hudson Yards,18,3.6,false
+575,"Graham, Kutch and Upton",Indian Cuisine,medium,Chinatown,18,0.6,true
+576,"Emmerich, Cummerata and Hand",Spanish Cuisine,cheap,Greenwich Village,18,3.2,true
+577,Gutmann-Nolan,Japanese Cuisine,cheap,Hell's Kitchen,24,3.2,true
+578,Jakubowski-Goodwin,Spanish Cuisine,medium,Greenwich Village,14,3.8,false
+579,"Haley, Batz and McDermott",Spanish Cuisine,expensive,West Village,20,4.0,true
+580,Greenholt Group,Greek Cuisine,medium,Greenwich Village,23,4.5,false
+581,"Stokes, Wisozk and Roberts",Italian Cuisine,medium,Greenwich Village,24,4.7,false
+582,"Gislason, Fritsch and Cormier",Italian Cuisine,medium,SoHo,20,0.7,false
+583,Mills LLC,French Cuisine,expensive,Financial District,18,3.8,false
+584,"Mertz, Bode and Heller",Greek Cuisine,expensive,Little Italy,23,1.3,false
+585,Hand Inc,Greek Cuisine,expensive,Chinatown,18,2.9,true
+586,Harber Group,Spanish Cuisine,cheap,Chelsea,22,4.7,true
+587,"Williamson, Feil and Pouros",Greek Cuisine,expensive,Hudson Yards,24,4.0,false
+588,Pagac LLC,Japanese Cuisine,expensive,Clinton,18,4.7,false
+589,"Ruecker, Rice and Thiel",Japanese Cuisine,cheap,SoHo,21,2.7,false
+590,Koelpin-Heller,Indian Cuisine,medium,Little Italy,16,4.7,true
+591,Witting-Lehner,Greek Cuisine,expensive,Little Italy,22,4.4,false
+592,"Marks, Kling and Fisher",French Cuisine,expensive,Hell's Kitchen,19,0.9,false
+593,"Rohan, Boyle and Bahringer",Spanish Cuisine,expensive,NoHo,21,1.8,false
+594,Conn-Tromp,Italian Cuisine,expensive,SoHo,23,4.6,false
+595,Wunsch and Sons,Mediterranean Cuisine,expensive,SoHo,19,4.0,false
+596,"Runolfsdottir, Ebert and Kling",Spanish Cuisine,medium,Greenwich Village,19,1.0,false
+597,Jaskolski-McDermott,French Cuisine,cheap,Chinatown,15,4.4,true
+598,Feil LLC,Japanese Cuisine,medium,NoHo,16,3.3,false
+599,"Lemke, Predovic and Bins",French Cuisine,medium,Greenwich Village,17,4.6,true
+600,Gibson-Muller,Spanish Cuisine,medium,Chelsea,23,1.3,false
+601,"Marks, Cronin and Witting",Chinese Cuisine,medium,Chinatown,20,2.0,false
+602,"Greenholt, Raynor and Schumm",Indian Cuisine,cheap,Battery Park City,15,5.0,false
+603,Schmidt-Barton,Italian Cuisine,cheap,Chelsea,18,3.7,false
+604,"Bednar, Block and Stokes",Mediterranean Cuisine,expensive,Hell's Kitchen,16,0.2,false
+605,Okuneva and Sons,Chinese Cuisine,cheap,Financial District,18,3.5,true
+606,"Olson, Rau and Gusikowski",Indian Cuisine,expensive,Chinatown,21,4.9,true
+607,"Grimes, Doyle and Kreiger",Mediterranean Cuisine,expensive,Hell's Kitchen,20,1.7,false
+608,"Harber, Gaylord and Schimmel",Indian Cuisine,medium,Tribeca,14,4.1,false
+609,Braun and Sons,Japanese Cuisine,cheap,Hell's Kitchen,20,3.7,true
+610,Reichel-Cruickshank,French Cuisine,expensive,West Village,15,4.3,true
+611,"Towne, Windler and Hayes",Chinese Cuisine,medium,SoHo,16,2.9,false
+612,Zemlak-Baumbach,French Cuisine,cheap,Hudson Yards,21,2.5,true
+613,Toy-Blick,Mediterranean Cuisine,medium,NoHo,16,3.0,false
+614,"Kessler, Morissette and Tremblay",Chinese Cuisine,medium,Hudson Yards,20,3.8,false
+615,Watsica and Sons,Italian Cuisine,expensive,NoHo,20,2.6,false
+616,"Stamm, Wiegand and Ortiz",Japanese Cuisine,medium,Chelsea,18,0.5,false
+617,Quitzon Inc,French Cuisine,expensive,Chinatown,23,3.3,true
+618,Quitzon LLC,Mediterranean Cuisine,expensive,Greenwich Village,24,1.6,false
+619,Hegmann-Goyette,Mediterranean Cuisine,cheap,Clinton,18,0.3,true
+620,"D'Amore, Lowe and Gislason",Greek Cuisine,medium,Battery Park City,14,3.4,true
+621,"D'Amore, Schoen and Hoppe",Japanese Cuisine,cheap,Little Italy,19,1.5,false
+622,"Brown, Kihn and Hackett",Greek Cuisine,cheap,Lower East Side,14,3.1,true
+623,Beier and Sons,Spanish Cuisine,cheap,Greenwich Village,18,0.7,true
+624,Maggio-Swift,Indian Cuisine,cheap,West Village,23,3.0,true
+625,"Hilpert, VonRueden and Anderson",Indian Cuisine,medium,NoHo,16,2.1,false
+626,Douglas-Abbott,Italian Cuisine,cheap,Financial District,16,3.1,false
+627,Mayert-Lubowitz,Chinese Cuisine,cheap,Financial District,15,1.0,true
+628,"Cassin, Mraz and Marks",Mediterranean Cuisine,medium,Tribeca,23,2.2,false
+629,Lang Inc,Chinese Cuisine,expensive,Financial District,20,4.0,true
+630,Russel-Feeney,Spanish Cuisine,cheap,Chelsea,17,4.9,true
+631,Nitzsche-Kilback,Italian Cuisine,medium,Chelsea,21,2.6,true
+632,Herman Inc,Mediterranean Cuisine,cheap,Lower East Side,16,0.5,false
+633,Wyman Inc,French Cuisine,medium,Battery Park City,15,3.4,true
+634,"Rau, Terry and Fahey",Chinese Cuisine,expensive,Financial District,20,2.2,true
+635,Hodkiewicz and Sons,Japanese Cuisine,expensive,Financial District,24,0.2,true
+636,"Streich, Jones and Denesik",Chinese Cuisine,expensive,West Village,19,0.4,false
+637,Gibson-Stiedemann,Japanese Cuisine,medium,Greenwich Village,14,2.6,true
+638,Ondricka Inc,Greek Cuisine,medium,Little Italy,16,4.6,false
+639,Rau-Ankunding,Greek Cuisine,expensive,Battery Park City,23,4.1,true
+640,"Nicolas, Shields and Mitchell",Japanese Cuisine,medium,Clinton,22,4.2,false
+641,Bartell-Kreiger,French Cuisine,cheap,NoHo,21,0.1,false
+642,"Dibbert, Bernier and Zemlak",Mediterranean Cuisine,cheap,Lower East Side,14,2.1,true
+643,Heidenreich-Littel,Indian Cuisine,expensive,Chinatown,21,2.1,true
+644,Koelpin-Corkery,Italian Cuisine,expensive,Clinton,17,0.1,true
+645,Crona-Ebert,Italian Cuisine,expensive,Tribeca,22,1.7,true
+646,"Gibson, Kuhlman and Reynolds",Chinese Cuisine,medium,Hudson Yards,21,3.0,true
+647,Casper-Streich,Spanish Cuisine,medium,NoHo,20,1.1,false
+648,Baumbach LLC,Japanese Cuisine,medium,SoHo,17,1.7,false
+649,Runolfsdottir-Toy,Spanish Cuisine,expensive,Chinatown,24,1.1,true
+650,Buckridge-Bins,Japanese Cuisine,cheap,Hell's Kitchen,15,2.2,true
+651,Shanahan-Greenholt,Mediterranean Cuisine,medium,SoHo,15,2.2,true
+652,"Bode, Rice and Paucek",Japanese Cuisine,expensive,Lower East Side,24,2.3,false
+653,Dickens LLC,Mediterranean Cuisine,expensive,Greenwich Village,24,3.8,true
+654,"Collins, Wisoky and Littel",Spanish Cuisine,expensive,Financial District,19,1.5,false
+655,Ward and Sons,French Cuisine,expensive,Chelsea,22,1.6,false
+656,Upton and Sons,Japanese Cuisine,cheap,Clinton,23,3.6,true
+657,Stanton-Little,Mediterranean Cuisine,medium,Little Italy,20,3.7,true
+658,"Morissette, Rau and Hilll",Chinese Cuisine,expensive,Hudson Yards,14,4.1,false
+659,Ziemann-Gleichner,Italian Cuisine,cheap,West Village,22,3.4,false
+660,"Hudson, Feeney and Hansen",Italian Cuisine,cheap,Clinton,14,4.2,false
+661,"Kling, Hahn and Wiegand",Italian Cuisine,cheap,Chinatown,16,4.1,true
+662,Greenfelder Inc,Greek Cuisine,medium,Little Italy,16,0.7,true
+663,Schmeler-Adams,Mediterranean Cuisine,medium,Hell's Kitchen,15,3.6,false
+664,Gorczany and Sons,Italian Cuisine,cheap,Chelsea,19,3.1,true
+665,"Hermiston, Bailey and McClure",Spanish Cuisine,expensive,Little Italy,17,4.4,false
+666,Kub-Collier,French Cuisine,medium,Hudson Yards,24,2.8,true
+667,"Runte, Shields and Hagenes",French Cuisine,medium,NoHo,23,1.0,false
+668,"Pfannerstill, Spencer and Frami",Italian Cuisine,cheap,West Village,23,0.7,true
+669,Stroman-Abbott,Chinese Cuisine,expensive,Financial District,16,1.1,true
+670,Wilderman-Wisoky,Mediterranean Cuisine,expensive,Financial District,14,1.4,false
+671,Connelly Group,Japanese Cuisine,medium,Clinton,16,0.1,true
+672,Watsica-Feeney,Spanish Cuisine,expensive,Chelsea,16,0.3,false
+673,Feeney LLC,Indian Cuisine,expensive,Financial District,15,1.5,true
+674,Rippin LLC,Indian Cuisine,expensive,Financial District,14,0.8,false
+675,Hackett-Mertz,French Cuisine,medium,NoHo,19,2.9,true
+676,"Kulas, Kris and Ernser",Spanish Cuisine,medium,Little Italy,14,0.5,false
+677,"Bednar, Stiedemann and Kozey",Indian Cuisine,medium,Hudson Yards,22,2.7,true
+678,Baumbach-Hudson,Mediterranean Cuisine,medium,Hell's Kitchen,15,4.5,true
+679,Huel and Sons,Chinese Cuisine,expensive,SoHo,24,4.4,false
+680,Goyette Inc,Italian Cuisine,cheap,SoHo,14,4.4,true
+681,Ebert and Sons,Greek Cuisine,cheap,Lower East Side,18,0.7,false
+682,Beatty-Hagenes,French Cuisine,expensive,Clinton,16,0.4,true
+683,"Prosacco, Hirthe and Wiegand",Japanese Cuisine,medium,Financial District,23,3.4,false
+684,Runolfsson-Becker,Japanese Cuisine,cheap,West Village,17,0.5,true
+685,Rutherford-Leffler,French Cuisine,cheap,SoHo,14,0.4,false
+686,"Kihn, Becker and Kassulke",Chinese Cuisine,cheap,NoHo,15,3.4,true
+687,Stracke-Bashirian,Italian Cuisine,medium,Financial District,15,0.5,false
+688,"DuBuque, Vandervort and Cremin",Chinese Cuisine,cheap,Greenwich Village,24,0.3,true
+689,"Marquardt, Osinski and Murphy",Italian Cuisine,medium,Financial District,20,3.3,false
+690,"Douglas, Schumm and Gerhold",Greek Cuisine,medium,Hudson Yards,22,4.3,false
+691,Anderson-Rath,Indian Cuisine,cheap,Lower East Side,19,2.5,false
+692,Zieme-Ritchie,French Cuisine,medium,Little Italy,21,4.2,false
+693,"Flatley, Bergstrom and Brakus",Greek Cuisine,medium,Hell's Kitchen,18,3.0,true
+694,Bernier Inc,Greek Cuisine,medium,Hudson Yards,18,4.5,false
+695,Johns-Koss,Spanish Cuisine,medium,Tribeca,21,3.2,true
+696,Beatty-Bernier,Italian Cuisine,medium,Chinatown,18,2.8,false
+697,"Predovic, Satterfield and Kunze",Greek Cuisine,expensive,Tribeca,20,2.3,false
+698,White-Swift,Mediterranean Cuisine,expensive,Battery Park City,17,0.4,false
+699,"Beahan, West and Keeling",Chinese Cuisine,expensive,Hudson Yards,18,4.5,true
+700,"Bogisich, Cummerata and West",Japanese Cuisine,cheap,Chelsea,17,2.5,true
+701,Metz-Stehr,Spanish Cuisine,cheap,Hell's Kitchen,23,1.1,true
+702,"Batz, Kertzmann and Daniel",Chinese Cuisine,medium,Clinton,24,3.6,true
+703,"Will, Watsica and Borer",Japanese Cuisine,cheap,Tribeca,16,4.3,false
+704,Hansen-Aufderhar,Mediterranean Cuisine,medium,Clinton,18,0.2,false
+705,"Brakus, Mills and Kulas",French Cuisine,expensive,West Village,19,1.4,true
+706,"Walsh, Stanton and Bauch",Italian Cuisine,cheap,Battery Park City,14,3.0,true
+707,Osinski-Upton,Japanese Cuisine,medium,Hudson Yards,21,3.8,false
+708,Spencer-Labadie,Indian Cuisine,medium,Tribeca,18,4.3,true
+709,Crona-Rutherford,Italian Cuisine,expensive,Financial District,19,2.5,false
+710,Shanahan-Gutkowski,Japanese Cuisine,cheap,Battery Park City,19,1.2,false
+711,Rowe-Heidenreich,Japanese Cuisine,expensive,SoHo,21,0.7,true
+712,Wolf and Sons,Italian Cuisine,cheap,NoHo,22,1.1,false
+713,Predovic and Sons,Italian Cuisine,cheap,Hell's Kitchen,24,1.8,true
+714,Funk-Howe,Mediterranean Cuisine,cheap,Hell's Kitchen,21,3.1,false
+715,Rogahn Inc,Greek Cuisine,medium,Lower East Side,17,0.3,false
+716,Bode Inc,Indian Cuisine,expensive,Lower East Side,22,3.3,true
+717,Hand-Lynch,Spanish Cuisine,cheap,NoHo,23,3.3,false
+718,Konopelski and Sons,Indian Cuisine,cheap,Tribeca,21,2.5,true
+719,Wiza-McGlynn,Greek Cuisine,cheap,Clinton,16,0.2,false
+720,Schmidt Inc,Japanese Cuisine,medium,West Village,15,3.2,true
+721,Dare Group,French Cuisine,expensive,NoHo,14,3.5,true
+722,"Zieme, Kovacek and Ryan",Chinese Cuisine,cheap,NoHo,18,2.6,false
+723,Heathcote-Wisoky,French Cuisine,cheap,Chinatown,15,0.8,true
+724,Connelly-Daugherty,Japanese Cuisine,cheap,Hudson Yards,14,2.1,false
+725,Marvin-Kozey,Italian Cuisine,medium,SoHo,18,2.0,true
+726,Wyman and Sons,Spanish Cuisine,cheap,Hell's Kitchen,19,2.3,true
+727,Schneider and Sons,French Cuisine,cheap,NoHo,15,2.8,false
+728,Sauer Group,Chinese Cuisine,cheap,Lower East Side,17,0.2,true
+729,"Krajcik, Hodkiewicz and Kreiger",Japanese Cuisine,cheap,Greenwich Village,17,1.3,false
+730,Murazik LLC,Greek Cuisine,medium,Greenwich Village,16,3.3,false
+731,Stehr-Kozey,Japanese Cuisine,cheap,Chinatown,24,1.0,false
+732,"Purdy, Aufderhar and Stokes",Mediterranean Cuisine,expensive,NoHo,14,3.0,true
+733,Haley-Wiza,Italian Cuisine,cheap,Financial District,17,4.9,true
+734,"Wyman, Olson and Labadie",Mediterranean Cuisine,medium,West Village,16,4.5,true
+735,Schowalter LLC,Japanese Cuisine,expensive,Tribeca,14,2.8,true
+736,Mitchell and Sons,Japanese Cuisine,medium,SoHo,23,1.6,true
+737,"Koepp, Considine and Abshire",Mediterranean Cuisine,cheap,Lower East Side,22,2.9,false
+738,Brekke and Sons,Indian Cuisine,cheap,Little Italy,21,0.1,true
+739,Quitzon-Carroll,French Cuisine,cheap,Chelsea,16,1.7,true
+740,Ortiz LLC,Japanese Cuisine,expensive,Tribeca,23,0.1,false
+741,"Keeling, Cole and Littel",Mediterranean Cuisine,medium,NoHo,20,1.9,false
+742,"Sporer, Von and Wiza",Chinese Cuisine,medium,Chinatown,16,3.1,false
+743,Abbott Group,Mediterranean Cuisine,medium,Hudson Yards,17,4.1,true
+744,"Conroy, Pfannerstill and Zboncak",Mediterranean Cuisine,cheap,Chelsea,24,3.5,false
+745,Trantow Group,French Cuisine,cheap,Hell's Kitchen,16,2.3,true
+746,Miller-Hickle,Mediterranean Cuisine,cheap,Lower East Side,24,3.0,false
+747,"Mueller, Weimann and Boehm",French Cuisine,medium,Little Italy,24,1.0,false
+748,Hand Inc,Greek Cuisine,expensive,Clinton,21,1.9,false
+749,Mitchell-Pagac,Japanese Cuisine,medium,Little Italy,19,3.1,true
+750,"Huels, Pollich and Von",Japanese Cuisine,expensive,Clinton,22,2.2,true
+751,"Skiles, VonRueden and Prohaska",Greek Cuisine,cheap,Little Italy,16,1.9,true
+752,Wyman-Batz,Italian Cuisine,cheap,West Village,18,0.9,false
+753,"Mante, Heidenreich and Johns",Greek Cuisine,expensive,Clinton,17,4.4,true
+754,"Fritsch, Macejkovic and Hegmann",Spanish Cuisine,cheap,Chinatown,16,4.1,false
+755,Rath-Koch,Japanese Cuisine,medium,NoHo,15,3.2,false
+756,"Monahan, Mante and Smith",Japanese Cuisine,expensive,Greenwich Village,19,3.0,false
+757,Zulauf Group,Italian Cuisine,medium,Chelsea,14,4.6,false
+758,Morissette LLC,Greek Cuisine,cheap,Hudson Yards,19,2.2,true
+759,"Abshire, Yost and Predovic",Japanese Cuisine,cheap,Lower East Side,18,1.8,true
+760,Larson and Sons,Mediterranean Cuisine,expensive,Battery Park City,20,1.8,false
+761,"Langosh, Corkery and Ziemann",Japanese Cuisine,medium,Clinton,16,4.1,true
+762,Kreiger-Swaniawski,Greek Cuisine,medium,Tribeca,15,2.5,false
+763,"Batz, Ortiz and Abshire",French Cuisine,cheap,Financial District,16,3.0,false
+764,Luettgen-Bogisich,French Cuisine,medium,Greenwich Village,22,4.7,true
+765,"Barton, Deckow and Hayes",Indian Cuisine,cheap,Lower East Side,21,0.6,false
+766,Cummerata-Von,Chinese Cuisine,expensive,Tribeca,24,4.2,true
+767,Cremin LLC,Spanish Cuisine,cheap,Chinatown,16,5.0,true
+768,Ziemann and Sons,Italian Cuisine,cheap,Battery Park City,19,1.1,false
+769,Block-Dibbert,Indian Cuisine,expensive,Greenwich Village,14,2.3,false
+770,Lindgren-Spinka,Indian Cuisine,expensive,Hell's Kitchen,23,2.2,false
+771,"Will, Schroeder and Hoppe",Indian Cuisine,cheap,Greenwich Village,22,1.0,false
+772,Connelly Inc,Spanish Cuisine,expensive,Lower East Side,15,3.5,false
+773,Cartwright and Sons,Japanese Cuisine,cheap,Hudson Yards,16,3.5,false
+774,"Barrows, Predovic and Thompson",Japanese Cuisine,medium,SoHo,21,1.6,false
+775,Runte-Hand,Japanese Cuisine,cheap,Chinatown,16,2.6,false
+776,"Weber, Lueilwitz and Stroman",French Cuisine,expensive,SoHo,22,0.4,true
+777,Carroll-Hodkiewicz,French Cuisine,expensive,NoHo,19,1.8,true
+778,"Stoltenberg, Corwin and Grimes",Chinese Cuisine,medium,SoHo,20,4.9,true
+779,"Yundt, Grady and Wyman",Greek Cuisine,expensive,Greenwich Village,17,0.2,true
+780,Legros-Von,Mediterranean Cuisine,cheap,SoHo,20,0.8,false
+781,"Greenfelder, Cremin and Bradtke",Greek Cuisine,cheap,Chinatown,15,0.8,false
+782,"Johns, Labadie and Howell",Mediterranean Cuisine,cheap,Greenwich Village,22,1.7,false
+783,"Abernathy, Bogisich and Block",Greek Cuisine,expensive,Financial District,19,4.7,true
+784,Wunsch and Sons,Indian Cuisine,medium,West Village,18,4.4,true
+785,Hagenes-Sauer,Spanish Cuisine,cheap,Clinton,18,1.1,true
+786,Wuckert Inc,Mediterranean Cuisine,medium,Tribeca,22,4.8,false
+787,Kilback and Sons,Chinese Cuisine,medium,Chinatown,20,2.9,true
+788,Lind-McGlynn,Mediterranean Cuisine,expensive,Tribeca,14,1.0,true
+789,Jerde LLC,Indian Cuisine,cheap,SoHo,18,3.1,false
+790,Monahan Group,Mediterranean Cuisine,medium,Little Italy,14,4.8,false
+791,"Ankunding, Durgan and Breitenberg",Spanish Cuisine,cheap,SoHo,21,0.4,true
+792,Lindgren and Sons,Japanese Cuisine,medium,Battery Park City,17,1.2,false
+793,Runolfsdottir and Sons,Spanish Cuisine,medium,SoHo,21,1.6,false
+794,Greenfelder-Schulist,Spanish Cuisine,expensive,West Village,15,1.9,false
+795,Langworth-Kuhic,Japanese Cuisine,cheap,Chinatown,14,2.0,false
+796,Treutel LLC,Chinese Cuisine,medium,Lower East Side,14,4.3,true
+797,"Fay, Konopelski and Morissette",Spanish Cuisine,expensive,Clinton,14,1.9,true
+798,Jacobi-Carter,Mediterranean Cuisine,cheap,Battery Park City,19,3.3,false
+799,"Shields, Rodriguez and Breitenberg",Greek Cuisine,medium,Lower East Side,16,0.3,true
+800,"Marquardt, Harris and Corkery",Greek Cuisine,medium,West Village,14,5.0,true
+801,Bruen Inc,Italian Cuisine,expensive,NoHo,15,4.1,true
+802,"Shanahan, Hammes and Hyatt",Greek Cuisine,medium,Hell's Kitchen,14,0.2,false
+803,"Blick, Block and Christiansen",Spanish Cuisine,cheap,Financial District,19,0.6,false
+804,Gleichner LLC,Chinese Cuisine,cheap,Hell's Kitchen,18,2.2,false
+805,"Reilly, Heathcote and Koss",Chinese Cuisine,medium,Financial District,15,3.3,false
+806,Torp and Sons,Japanese Cuisine,expensive,Lower East Side,16,1.2,false
+807,Parisian-Johnston,French Cuisine,expensive,SoHo,24,4.1,true
+808,Durgan Inc,Chinese Cuisine,cheap,Tribeca,16,3.7,false
+809,Farrell-Shanahan,Mediterranean Cuisine,cheap,Tribeca,24,0.3,true
+810,"Wiza, Blick and Brown",Japanese Cuisine,cheap,Lower East Side,23,1.1,true
+811,Barrows Group,Mediterranean Cuisine,medium,NoHo,14,2.8,true
+812,"Kilback, Cruickshank and Boyer",Italian Cuisine,expensive,Hudson Yards,16,2.9,true
+813,Reichel-Boyle,Indian Cuisine,cheap,NoHo,19,0.2,true
+814,"Bartoletti, Johnston and Yost",Greek Cuisine,expensive,SoHo,20,3.2,false
+815,"Mante, Leannon and Johnson",Greek Cuisine,medium,Greenwich Village,21,1.5,false
+816,Renner-Hahn,Spanish Cuisine,expensive,Lower East Side,17,2.3,false
+817,Cremin Group,Mediterranean Cuisine,cheap,West Village,16,0.7,true
+818,"Jaskolski, Connelly and Schoen",Mediterranean Cuisine,expensive,SoHo,24,0.3,false
+819,Quigley LLC,Greek Cuisine,medium,Little Italy,19,1.4,false
+820,"Mueller, Brakus and Bradtke",Mediterranean Cuisine,expensive,Hell's Kitchen,15,3.7,true
+821,Balistreri Group,Greek Cuisine,expensive,Clinton,17,1.5,true
+822,Langosh-Kunde,Indian Cuisine,cheap,Hell's Kitchen,14,1.1,false
+823,"Abshire, Schaefer and Hirthe",French Cuisine,cheap,SoHo,18,1.8,true
+824,"Kihn, Zboncak and McClure",Mediterranean Cuisine,expensive,Hudson Yards,18,0.8,false
+825,Halvorson LLC,Japanese Cuisine,medium,Hudson Yards,20,4.0,false
+826,"Ratke, Nikolaus and Dickinson",Spanish Cuisine,expensive,Tribeca,24,1.8,true
+827,"Bogan, Boehm and Grant",Greek Cuisine,cheap,Greenwich Village,21,3.6,true
+828,Conn-Swift,Indian Cuisine,medium,Clinton,24,0.0,true
+829,Windler-Dibbert,French Cuisine,medium,Clinton,14,3.5,false
+830,Yundt Group,Spanish Cuisine,cheap,SoHo,19,2.1,true
+831,Herman-Beier,Greek Cuisine,medium,Tribeca,16,1.3,true
+832,Mueller and Sons,Greek Cuisine,medium,West Village,18,0.3,true
+833,Krajcik-Pacocha,Chinese Cuisine,medium,Financial District,17,4.7,true
+834,Hegmann Group,Mediterranean Cuisine,cheap,Little Italy,20,2.0,false
+835,McLaughlin-Kassulke,Greek Cuisine,cheap,Chinatown,19,1.6,false
+836,Bruen-Gorczany,Indian Cuisine,medium,Lower East Side,20,3.2,true
+837,"Willms, Buckridge and Wilkinson",Mediterranean Cuisine,medium,Financial District,19,0.4,false
+838,Bruen-Glover,Italian Cuisine,medium,Financial District,18,3.1,true
+839,"Torp, Goyette and Hartmann",Italian Cuisine,medium,Clinton,17,4.9,false
+840,"Stamm, Cummerata and Muller",Indian Cuisine,expensive,Clinton,19,4.3,false
+841,"Rice, Gottlieb and Torphy",Indian Cuisine,medium,NoHo,15,2.8,true
+842,Jacobson-Jakubowski,French Cuisine,cheap,Tribeca,15,2.9,false
+843,Lebsack Inc,Italian Cuisine,cheap,Chelsea,17,4.6,false
+844,Kunde and Sons,Greek Cuisine,medium,Chinatown,17,1.3,true
+845,"Armstrong, Turner and McKenzie",Spanish Cuisine,cheap,Financial District,18,2.1,true
+846,Von-Renner,Chinese Cuisine,expensive,Battery Park City,20,0.8,true
+847,Emmerich Group,Chinese Cuisine,cheap,West Village,20,0.8,false
+848,"Gerhold, Stehr and Jacobs",Japanese Cuisine,expensive,Greenwich Village,17,1.4,false
+849,"Lemke, Ankunding and Ondricka",Indian Cuisine,medium,Battery Park City,15,0.2,true
+850,"Cummings, Johnston and Murazik",Italian Cuisine,expensive,NoHo,22,0.9,false
+851,Koelpin Inc,Greek Cuisine,medium,SoHo,22,1.6,true
+852,Huel LLC,Spanish Cuisine,cheap,Clinton,18,1.9,false
+853,"Emmerich, Anderson and Klein",Japanese Cuisine,medium,SoHo,21,2.0,true
+854,"Barrows, Reichel and Swift",French Cuisine,cheap,Chelsea,24,2.0,true
+855,"Hauck, Larson and Block",Indian Cuisine,cheap,Greenwich Village,23,2.1,true
+856,"Hermann, Gorczany and Mayert",Chinese Cuisine,cheap,Greenwich Village,19,1.5,true
+857,Sawayn-O'Keefe,French Cuisine,expensive,Financial District,21,0.7,true
+858,"Funk, Goldner and Pouros",Spanish Cuisine,medium,Clinton,15,0.1,true
+859,Bashirian-Cole,Japanese Cuisine,medium,Tribeca,16,4.3,false
+860,Heller-Block,Japanese Cuisine,cheap,Hudson Yards,14,0.1,false
+861,Doyle-Gerlach,Japanese Cuisine,cheap,Chinatown,22,4.4,false
+862,"Bins, Schimmel and Adams",Greek Cuisine,medium,NoHo,16,1.1,false
+863,"Wilkinson, Rohan and Ebert",Mediterranean Cuisine,medium,Financial District,19,4.4,false
+864,Howe and Sons,Mediterranean Cuisine,expensive,Lower East Side,16,2.4,false
+865,Gleichner LLC,Greek Cuisine,medium,Lower East Side,21,1.4,false
+866,Crooks Inc,Chinese Cuisine,cheap,Clinton,18,2.5,false
+867,Block Inc,French Cuisine,expensive,Greenwich Village,19,2.2,true
+868,"Miller, Barton and Kutch",Chinese Cuisine,cheap,West Village,24,3.5,false
+869,"Corwin, Bernier and Schmitt",French Cuisine,medium,Tribeca,24,2.5,true
+870,McKenzie-Gleichner,Mediterranean Cuisine,medium,Greenwich Village,21,4.3,true
+871,"VonRueden, Bruen and Veum",French Cuisine,medium,Greenwich Village,15,3.8,true
+872,O'Keefe-Upton,Spanish Cuisine,cheap,Tribeca,18,4.7,true
+873,Marquardt-Hyatt,Italian Cuisine,medium,Tribeca,20,1.8,true
+874,Koelpin-Pouros,Italian Cuisine,cheap,Little Italy,20,0.7,true
+875,Reichel Inc,Greek Cuisine,medium,Hudson Yards,22,2.4,false
+876,"Yost, Fay and Marks",Italian Cuisine,expensive,Chelsea,16,2.8,false
+877,Legros-Bogisich,Indian Cuisine,expensive,Greenwich Village,22,2.9,true
+878,Klein Group,Italian Cuisine,medium,Hudson Yards,24,1.9,false
+879,Walker-Ward,Spanish Cuisine,cheap,Clinton,17,3.6,false
+880,"Weimann, Yost and Jenkins",French Cuisine,medium,Hudson Yards,18,1.8,false
+881,Heller-Kuvalis,French Cuisine,expensive,Financial District,17,3.4,true
+882,Hand Group,Greek Cuisine,cheap,Financial District,24,1.1,true
+883,Gutkowski-Rogahn,Greek Cuisine,expensive,Hell's Kitchen,21,0.9,true
+884,Lesch LLC,Mediterranean Cuisine,cheap,Hudson Yards,24,3.4,false
+885,Herman Group,French Cuisine,medium,Chelsea,22,3.2,false
+886,"Vandervort, Gleason and Prosacco",Chinese Cuisine,cheap,Hudson Yards,21,3.5,false
+887,"Dietrich, Maggio and Hills",Indian Cuisine,cheap,Chelsea,19,0.9,true
+888,Larson LLC,Greek Cuisine,expensive,Hell's Kitchen,21,4.5,true
+889,Kunze and Sons,Mediterranean Cuisine,medium,SoHo,18,1.3,false
+890,Blanda-Fay,Spanish Cuisine,cheap,Hudson Yards,19,3.0,true
+891,"Kihn, Mayer and Conn",Japanese Cuisine,medium,Tribeca,21,4.1,true
+892,Frami Group,Greek Cuisine,cheap,Battery Park City,17,4.3,false
+893,Wolf-Cummings,Spanish Cuisine,cheap,Hudson Yards,14,4.4,true
+894,Gorczany Inc,Greek Cuisine,expensive,Hudson Yards,23,4.7,true
+895,Waelchi-Gottlieb,Chinese Cuisine,cheap,Battery Park City,22,3.9,true
+896,"Effertz, Hermiston and Grady",Japanese Cuisine,medium,Battery Park City,22,4.0,false
+897,"Walsh, Corwin and Wuckert",Chinese Cuisine,expensive,Little Italy,15,0.9,true
+898,"Fritsch, Witting and Carroll",Japanese Cuisine,cheap,Battery Park City,18,3.2,false
+899,Kilback LLC,Italian Cuisine,medium,West Village,22,4.6,false
+900,"Koss, Terry and Schultz",Japanese Cuisine,expensive,West Village,18,0.4,true
+901,"Corkery, Bins and Connelly",Mediterranean Cuisine,expensive,Hell's Kitchen,24,0.2,true
+902,Stracke-Torp,Italian Cuisine,cheap,Financial District,21,3.5,true
+903,Adams-Feil,French Cuisine,medium,Battery Park City,23,1.8,false
+904,Schaefer-Auer,Japanese Cuisine,cheap,Battery Park City,23,1.4,false
+905,Beahan-Runolfsdottir,Japanese Cuisine,expensive,Hudson Yards,16,4.2,true
+906,Kub-Kuhlman,Greek Cuisine,expensive,Greenwich Village,18,2.3,false
+907,Farrell-Altenwerth,Greek Cuisine,expensive,Tribeca,23,3.6,true
+908,Hirthe LLC,Mediterranean Cuisine,cheap,Little Italy,24,2.4,false
+909,Abshire-Brakus,Indian Cuisine,cheap,Chinatown,22,0.7,false
+910,Waters LLC,Spanish Cuisine,expensive,West Village,22,4.2,true
+911,Gottlieb LLC,Spanish Cuisine,expensive,Hell's Kitchen,15,1.5,true
+912,Connelly-Dicki,Chinese Cuisine,expensive,Battery Park City,19,3.6,false
+913,Crooks and Sons,Spanish Cuisine,medium,Clinton,17,2.6,true
+914,"Gibson, McLaughlin and Kunde",French Cuisine,expensive,SoHo,18,3.6,true
+915,Kuphal-Batz,Italian Cuisine,expensive,Chelsea,14,1.4,true
+916,"Nikolaus, Kreiger and Marquardt",Greek Cuisine,cheap,Financial District,21,2.5,true
+917,"Cartwright, Frami and Glover",Chinese Cuisine,expensive,Chinatown,19,3.4,true
+918,Braun and Sons,Chinese Cuisine,expensive,Hudson Yards,23,3.5,false
+919,Stroman-Boehm,Italian Cuisine,cheap,Little Italy,20,2.5,true
+920,"Bayer, Hirthe and Haley",Chinese Cuisine,expensive,Hudson Yards,22,4.7,true
+921,O'Kon-Cormier,Chinese Cuisine,cheap,Chelsea,14,1.5,true
+922,Christiansen Inc,French Cuisine,medium,Financial District,19,1.6,false
+923,Haag-Raynor,Italian Cuisine,cheap,NoHo,15,4.0,true
+924,"Johns, Schuster and Harvey",Mediterranean Cuisine,cheap,Chelsea,18,1.8,true
+925,Tromp-Rice,Chinese Cuisine,cheap,Lower East Side,24,4.2,true
+926,"Turner, Kautzer and Zulauf",Spanish Cuisine,expensive,Chinatown,21,4.0,true
+927,Ziemann Inc,Japanese Cuisine,medium,West Village,23,2.8,true
+928,Wehner-Gleason,Italian Cuisine,medium,Chinatown,14,1.6,false
+929,"Schowalter, Metz and Purdy",Italian Cuisine,medium,Chelsea,14,1.9,false
+930,Deckow Group,Japanese Cuisine,expensive,NoHo,23,4.3,true
+931,Stanton and Sons,Mediterranean Cuisine,expensive,Hudson Yards,22,3.7,true
+932,Heathcote-Auer,Mediterranean Cuisine,medium,Battery Park City,19,2.5,false
+933,Stamm Inc,Italian Cuisine,medium,SoHo,18,0.2,true
+934,Skiles-Upton,Japanese Cuisine,cheap,Clinton,22,3.3,false
+935,D'Amore and Sons,Greek Cuisine,cheap,Hudson Yards,18,0.2,true
+936,Moore Inc,Mediterranean Cuisine,cheap,Hell's Kitchen,19,0.5,true
+937,Bruen Inc,Indian Cuisine,cheap,Chinatown,22,2.0,false
+938,Stoltenberg and Sons,Mediterranean Cuisine,cheap,Battery Park City,17,1.1,false
+939,"Lakin, Conroy and McGlynn",Greek Cuisine,medium,Lower East Side,24,0.1,false
+940,"Kutch, Nolan and Crist",Indian Cuisine,medium,West Village,18,1.6,true
+941,Jakubowski-Hettinger,Italian Cuisine,medium,Little Italy,21,3.4,false
+942,"Schimmel, Cole and Schimmel",Japanese Cuisine,medium,Chelsea,22,0.7,false
+943,Wilkinson-Dietrich,Spanish Cuisine,cheap,Hell's Kitchen,14,2.8,false
+944,"Mills, Quigley and Homenick",Mediterranean Cuisine,expensive,Little Italy,18,3.3,false
+945,Becker LLC,Indian Cuisine,cheap,NoHo,19,1.6,false
+946,"Fritsch, Hirthe and D'Amore",Italian Cuisine,expensive,Lower East Side,16,1.9,true
+947,Robel-Hyatt,Italian Cuisine,cheap,Battery Park City,18,0.2,false
+948,Yundt LLC,Chinese Cuisine,cheap,NoHo,22,5.0,false
+949,"Emmerich, Gutkowski and Nienow",Spanish Cuisine,medium,Hudson Yards,18,1.2,false
+950,"Douglas, Mayer and Gutmann",Indian Cuisine,medium,West Village,15,2.0,false
+951,"Jacobson, Ferry and Lebsack",Spanish Cuisine,cheap,Battery Park City,20,2.3,false
+952,"Schmeler, McLaughlin and Blanda",French Cuisine,expensive,Chelsea,16,1.6,false
+953,O'Reilly-Barton,Indian Cuisine,cheap,Lower East Side,14,2.5,false
+954,"Adams, Torp and Bednar",Italian Cuisine,cheap,NoHo,15,0.7,false
+955,Hackett-Ullrich,Spanish Cuisine,medium,Greenwich Village,24,1.8,true
+956,Dibbert LLC,Mediterranean Cuisine,cheap,Little Italy,17,4.0,false
+957,Marquardt-Willms,French Cuisine,cheap,Hudson Yards,22,3.3,true
+958,Herzog Group,French Cuisine,medium,Tribeca,19,1.4,true
+959,Runte-Hansen,Chinese Cuisine,cheap,SoHo,16,1.4,true
+960,Gutmann-Stoltenberg,Greek Cuisine,expensive,Financial District,20,2.3,false
+961,"Lockman, Abshire and Douglas",Indian Cuisine,cheap,Battery Park City,14,0.4,false
+962,Ryan Group,Greek Cuisine,cheap,Lower East Side,22,3.6,false
+963,Predovic-Koss,Mediterranean Cuisine,cheap,Lower East Side,19,4.5,false
+964,Kassulke-Pagac,Japanese Cuisine,cheap,Financial District,18,4.5,false
+965,Littel-Deckow,Spanish Cuisine,cheap,Clinton,16,2.2,false
+966,Morissette and Sons,Spanish Cuisine,cheap,Lower East Side,16,2.8,true
+967,"Abernathy, Buckridge and Buckridge",Indian Cuisine,expensive,Chelsea,21,0.2,true
+968,Funk-Hirthe,Spanish Cuisine,expensive,Chinatown,23,2.9,false
+969,Predovic Group,Mediterranean Cuisine,medium,Battery Park City,20,4.2,true
+970,"Rau, Doyle and Aufderhar",French Cuisine,expensive,West Village,19,0.8,true
+971,Will Inc,Indian Cuisine,medium,Clinton,16,2.2,false
+972,Runolfsson Inc,Chinese Cuisine,medium,Chinatown,17,0.1,true
+973,"Jakubowski, Legros and McCullough",Chinese Cuisine,medium,Clinton,20,4.8,true
+974,Volkman Inc,Japanese Cuisine,medium,Chelsea,18,1.1,false
+975,Sporer and Sons,Japanese Cuisine,medium,Financial District,23,2.9,false
+976,"Torp, Herzog and Schuster",Spanish Cuisine,expensive,Financial District,18,3.4,true
+977,Schulist-Kuhn,Indian Cuisine,medium,NoHo,19,4.9,false
+978,Weissnat LLC,French Cuisine,expensive,Battery Park City,22,1.9,true
+979,"Runolfsdottir, Corkery and Yundt",Mediterranean Cuisine,medium,Chelsea,21,1.6,true
+980,Beahan Group,Japanese Cuisine,expensive,Lower East Side,23,3.1,false
+981,Wuckert LLC,Italian Cuisine,expensive,Little Italy,15,2.7,false
+982,"Auer, Conroy and D'Amore",Chinese Cuisine,cheap,Chinatown,18,4.7,false
+983,Boyer-Frami,Chinese Cuisine,cheap,Lower East Side,20,4.5,true
+984,"Witting, Kling and Koss",Greek Cuisine,medium,Lower East Side,24,4.6,true
+985,Stoltenberg-Mante,Mediterranean Cuisine,medium,Lower East Side,20,3.1,false
+986,D'Amore LLC,Italian Cuisine,cheap,SoHo,24,1.6,false
+987,"Streich, Johnson and Altenwerth",Chinese Cuisine,medium,Battery Park City,20,1.8,true
+988,Williamson Group,Mediterranean Cuisine,expensive,NoHo,23,3.5,true
+989,Hettinger Inc,Mediterranean Cuisine,expensive,Chinatown,20,1.0,true
+990,Tromp-Wilderman,Indian Cuisine,medium,Hudson Yards,17,1.2,false
+991,Mraz-Davis,Japanese Cuisine,expensive,Little Italy,15,4.2,false
+992,"Nolan, Sipes and Schamberger",Japanese Cuisine,expensive,Chinatown,18,0.3,true
+993,"Hammes, Hagenes and Lakin",French Cuisine,medium,Battery Park City,16,1.7,false
+994,Kuphal Inc,Italian Cuisine,medium,Financial District,18,1.2,true
+995,Steuber-Mertz,Italian Cuisine,cheap,Greenwich Village,16,2.8,false
+996,Watsica Group,Japanese Cuisine,medium,Lower East Side,22,4.3,true
+997,Torphy-Berge,Italian Cuisine,medium,Hell's Kitchen,18,1.7,false
+998,Cummings LLC,French Cuisine,medium,Chelsea,19,1.2,false
+999,Jaskolski-Daugherty,Spanish Cuisine,expensive,Hudson Yards,20,2.7,true
+1000,"Ritchie, McClure and Littel",French Cuisine,cheap,Financial District,19,3.0,false
